@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VideoVitamio</string>
+    <string name="vitamio_demo_name">VitamioDemo</string>
+    <string name="local_video">从本地文件播放视频</string>
+    <string name="local_video_setsurface">播放视频使用setSurface</string>
+    <string name="stream_video">播放流式视频</string>
+    <string name="local_audio">播放流式视频</string>
+    <string name="res_audio">从资源播放音频</string>
+    <string name="title_activity_video_subtitle_demo">VideoSubtitleDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="subtitle1">媒体播放器字幕</string>
+    <string name="subtitle12">VideoView字幕</string>
+    <string name="title_activity_media_player_subtitle">MediaPlayerSubtitle</string>
+    <string name="title_activity_video_view_subtitle">VideoViewSubtitle</string>
+    <string name="title_activity_video_subtitle_list">VideoSubtitleList</string>
+    <string name="title_activity_video_buffer">VideoViewBuffer</string>
+    <string name="openvideo1">打开视频1</string>
+    <string name="openvideo2">打开视频2</string>
+</resources>
